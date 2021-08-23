@@ -1,2 +1,2 @@
 # peytonfisher.github.io
-## Peyton Fisher's CSCE 190 Site
+Peyton Fisher's CSCE 190 Site
