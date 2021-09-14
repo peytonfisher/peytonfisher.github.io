@@ -1,21 +1,24 @@
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align:center;
+    color:darkslategray;
 }
 
 h1{
-    color:teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkslategray;
     text-align: center;
-    text-shadow: midnightblue;
 }
 
 h2{
-    color:teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkslategray;
     text-align:center;
 }
 
 p{
-    color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkslategray;
     text-align: center;
 }
 
